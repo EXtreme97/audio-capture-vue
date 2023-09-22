@@ -11,6 +11,8 @@ TODO：音频可视化
 * AudioWorkletProcessor：https://developer.mozilla.org/zh-CN/docs/Web/API/AudioWorkletProcessor
 * Worker：https://developer.mozilla.org/zh-CN/docs/Web/API/Worker
 * AudioWorkletNode：https://developer.mozilla.org/zh-CN/docs/Web/API/AudioWorkletNode
+* [使用 AudioWorklet 获取麦克风音量（volume-meter） - 掘金 (juejin.cn)](https://juejin.cn/post/6992465931083464735)
+* [Web Audio在音频可视化中的应用 - 掘金 (juejin.cn)](https://juejin.cn/post/6844903953130323976?searchId=202309191347029F86731B6AE47B916D52)
 
 # Vue 3 + Vite
 
