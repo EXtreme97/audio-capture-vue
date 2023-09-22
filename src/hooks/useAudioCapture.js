@@ -64,6 +64,10 @@ const useAudioCapture = () => {
       audioWorkletNode.connect(context.destination);
       audioNode.connect(context.destination);
 
+      /**
+       * TODO
+       * 音频可视化
+       */
       //
       // const analyzer = context.createAnalyser();
       // analyzer.fftSize = 512;
